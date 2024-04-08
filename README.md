@@ -1,4 +1,5 @@
-Recipe Flow
+**Recipe Flow**
+
 Created By: Aastha, Dua, Farah, Maleeha, Seedak
 - The domain of our project is Recipe Organization.
 - Our proposed software serves as a platform where users can browse recipes generated from the Edamam Recipe Search API, as well as upload recipes of their own for personal viewing. Users are also able to save recipes to their profile to view later.
